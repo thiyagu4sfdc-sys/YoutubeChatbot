@@ -2,6 +2,9 @@
 
 A production-ready web application that enables users to interact with YouTube videos through an advanced **Retrieval-Augmented Generation (RAG)** pipeline with answer verification to reduce hallucinations.
 
+<img width="917" height="455" alt="image" src="https://github.com/user-attachments/assets/e990a2f1-8c21-4dd8-8972-8ded3b906941" />
+
+
 ## 🎯 Overview
 
 This application combines:
